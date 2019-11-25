@@ -1,3 +1,5 @@
-Various kattis solutions.
+# kattis
 
-[Kattis profile](https://open.kattis.com/users/p-lots)
+Various [kattis](https://open.kattis.com) solutions.
+
+[Profile on kattis](https://open.kattis.com/users/p-lots)
